@@ -1,14 +1,14 @@
-version: 1.1.0
+version: 1.1.1
 files:
   - url: bioplayer2bis.exe
-    sha512: 54fSo3L/IlnG0AoRRD3tD+QbaOq2lUBqfATVRifmuQgV7FofPe3U/Od3Z2ZvP1fYeP2mm3mP2pj96aEleF7A5w==
-    size: 209019274
+    sha512: WPU+qj4TKj8gVoJfzKnazD9n11c1VuIF86i0pPrubwjXd1+4IEPnSwOjHgKsRUnFHUTlxftULaxsGsFyG3Bqlg==
+    size: 209020228
   - url: bioplayer2bis-x64.exe
-    sha512: Bhnrfjlsfz2x/HJvGRYAQwye3rRMET5QHWM5XBH84dXRAdtIm1mN5Xg+6J0hELgHGy4at44W5lr5p8HqOuLHrg==
-    size: 107625511
+    sha512: IP2Lf/GFqiVRZvbdeL+WY2jPiNnIkrwLR7Ym7RDTawE83mSkSMkRFwghNOMb8BXZ/H8UOSaf3bhVl/NTYwCGIg==
+    size: 107625955
   - url: bioplayer2bis-ia32.exe
-    sha512: unGn3Y7M1lHU4ZnlRaAT6XEI1TcUiauseYKONkYHSshz9vkFT5WbjMPMECLN02yaDK6I8rAC+TWgCznAnE9H2g==
-    size: 101988416
+    sha512: EvufCfy3/Dj3+MoJHDqQa6r9wDElcMgpk8zuYqqynvle3fxrReW/8m9HqUA/k7RBuzyefMjKcF6reJqLDloFog==
+    size: 101988955
 path: bioplayer2bis.exe
-sha512: 54fSo3L/IlnG0AoRRD3tD+QbaOq2lUBqfATVRifmuQgV7FofPe3U/Od3Z2ZvP1fYeP2mm3mP2pj96aEleF7A5w==
-releaseDate: '2024-11-21T11:59:54.176Z'
+sha512: WPU+qj4TKj8gVoJfzKnazD9n11c1VuIF86i0pPrubwjXd1+4IEPnSwOjHgKsRUnFHUTlxftULaxsGsFyG3Bqlg==
+releaseDate: '2024-11-21T13:48:57.146Z'
